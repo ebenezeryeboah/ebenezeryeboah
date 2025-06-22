@@ -1,6 +1,6 @@
 # 👋 Welcome to Ebenezer Yeboah's GitHub
 
-Hi there! I'm **Ebenezer Yeboah**, a passionate Web Developer, Business Analyst, and Financial Engineer based in Ghana.
+Hi there! I'm **Ebenezer Yeboah**, a passionate Web Developer, Data & Business Analyst, and Financial Engineer based in Ghana.
 
 ---
 
@@ -8,15 +8,15 @@ Hi there! I'm **Ebenezer Yeboah**, a passionate Web Developer, Business Analyst,
 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks & Libraries:** React (v19), Tailwind CSS, Vite
-- **Design:** Adobe Photoshop, Illustrator
-- **Analytics & Data Science:** Python, Excel, Power BI, SQL (learning)
+- **Design:** Adobe Photoshop, Adobe Lightroom, Adobe Premiere Pro
+- **Analytics & Data Science:** Python, Excel, Power BI, SQL
 - **Version Control:** Git & GitHub
 
 ---
 
 ## 👨🏽‍💻 Projects
 
-- 🛒 **GH Mart - E-Commerce Web App**  
+- 🛒 **E-Commerce Web App**  
   An online platform for food and grocery items with cart, wishlist, notifications, and admin/user dashboards.  
   _Tech used: React 19, Tailwind CSS, React Router, LocalStorage_
 
@@ -36,8 +36,7 @@ Hi there! I'm **Ebenezer Yeboah**, a passionate Web Developer, Business Analyst,
 
 ## 🌱 Currently Learning
 
-- SQL for data analytics  
-- Advanced JavaScript (functions, array/object methods, performance)  
+- Advanced JavaScript 
 - UI/UX design systems for scalable platforms
 
 ---
@@ -58,6 +57,11 @@ Hi there! I'm **Ebenezer Yeboah**, a passionate Web Developer, Business Analyst,
 1. Clone any of my repositories.
 2. Follow the setup instructions provided in the README of each project.
 3. Reach out for collaboration or feedback anytime!
+
+## 🙋🏽‍♂️ Fun Fact
+
+I type at ~50 WPM and I’m improving every day through consistent practice! ⌨️
+
 
 ---
 
