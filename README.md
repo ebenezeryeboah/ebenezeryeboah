@@ -1,6 +1,4 @@
-# 👋 Welcome to Ebenezer Yeboah's GitHub
-
-Hi there! I'm **Ebenezer Yeboah**, a passionate Web Developer, Data & Business Analyst, and Financial Engineer based in Ghana.
+Hi, I'm **Ebenezer Yeboah**, a passionate Web Developer, Data & Business Analyst, and Financial Engineer based in Ghana.
 
 ---
 
