@@ -60,7 +60,7 @@ Hi there! I'm **Ebenezer Yeboah**, a passionate Web Developer, Data & Business A
 
 ## 🙋🏽‍♂️ Fun Fact
 
-I type at ~50 WPM and I’m improving every day through consistent practice! ⌨️
+I type at ~50+ WPM and I’m improving every day through consistent practice! ⌨️
 
 
 ---
