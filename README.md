@@ -50,15 +50,9 @@ Hi, I'm **Ebenezer Yeboah**, a passionate Web Developer and Data & Business Anal
 
 ---
 
-## 🚀 How to Use
-
-1. Clone any of my repositories.
-2. Follow the setup instructions provided in the README of each project.
-3. Reach out for collaboration or feedback anytime!
-
 ## 🙋🏽‍♂️ Fun Fact
 
-I type at ~50+ WPM and I’m improving every day through consistent practice! ⌨️
+I type at ~55+ WPM and I’m improving every day through consistent practice! ⌨️
 
 
 ---
